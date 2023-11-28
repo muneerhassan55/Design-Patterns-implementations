@@ -21,7 +21,7 @@ public class Facade_pattern_labtask {
       shapeMaker.drawSahpe(sb, "rectangle", "green", "filled");
       shapeMaker.drawSahpe(sb, "square", "blue", "dotted");
       shapeMaker.drawSahpe(sb, "triangle", "yellow", "solid");
-
+      shapeMaker.drawSahpe(sb, "Pentagan", "Black", "solid");
       System.out.println(sb.toString());
         // TODO code application logic here
     }
